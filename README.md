@@ -13,3 +13,5 @@ a Python-based simulation framework for bionic vision
 [(Beyeler et al. 2017)](https://doi.org/10.25080/shinma-7f4c6e7-00c).
 
 Data is available on the [Open Science Framework](https://osf.io/s2udz/).
+
+**TODO: We need to make sure we're actually allowed to publish all code under BSD-3. Depends on the software packages we used.**
