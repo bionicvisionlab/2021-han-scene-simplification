@@ -1,1 +1,1 @@
-pulse2percept
+pulse2percept==0.6.0
