@@ -1,1 +1,2 @@
 pulse2percept==0.6.0
+imageio==2.9.0
