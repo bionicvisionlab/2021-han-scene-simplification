@@ -7,6 +7,8 @@ Please cite as:
 
 > N Han, S Srivastava, A Xu, D Klein, M Beyeler (2021). Deep learning--based scene simplification for bionic vision. In *AHs '21: Augmented Humans International Conference (AHs '21), February 22-24, 2021, online*. ACM, New York, NY, USA, 10 pages.
 
+🥈 AHs '21: Best Paper Honorable Mention Award (top 4%)
+
 The preprint can be found on [arXiv](https://arxiv.org/abs/2102.00297).
 
 This code is based on [pulse2percept](https://github.com/uwescience/pulse2percept),
